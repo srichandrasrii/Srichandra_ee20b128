@@ -1,0 +1,24 @@
+.title{
+    font-size:100px;
+    color:white;
+    position: absolute;
+    top:10%;
+    right: 5%;
+}
+
+.tagline{
+    font-family: 'Monsieur La Doulaise', cursive;
+    color: white;
+    font-size:80px;
+    position:absolute;
+    right:5%;
+    bottom:20%;
+}
+
+.home-div{
+    width:100%;
+    height:600px;
+    background-image: url("https://www.move-project.org/wp-content/uploads/2017/07/Two-Methods-To-Learn-Web-Designing-1200x750.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
